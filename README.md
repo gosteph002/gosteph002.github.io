@@ -9,9 +9,10 @@
 - <b>PowerShell</b>
  
 - <b>Python </b>
- 
-- <b>CTF Write Ups</b> [Network Traffic Analysis](./CTF-Writeup-Network Traffic.md)
-  
+
+<b>CTF Write Ups</b>
+
+[Network Traffic Analysis](./CTF-Writeup-Network%20Traffic.md)
 
 <h2>Certifications</h2>
 
