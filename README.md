@@ -15,6 +15,9 @@
 
 <h2>Certifications</h2>
 
+[CompTIA Security+ ](https://www.credly.com/badges/04d6c058-16d4-4b71-a819-dbcbc1c8858d/public_url)
+
+[Google Cloud Cybersecurity Certificate](https://www.credly.com/badges/6b03790c-733d-4ef2-b6ff-6a4bd0f0e2c7/public_url)
 
 <h2> 🤳🏿 Connect with me:</h2>
 
