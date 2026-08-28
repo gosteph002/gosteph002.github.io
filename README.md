@@ -10,7 +10,7 @@
  
 - <b>Python </b>
  
-- <b>CTF Write Ups</b>
+- <b>CTF Write Ups</b> [Network Traffic Analysis](./CTF-Writeup-Network Traffic.md)
   
 
 <h2>Certifications</h2>
