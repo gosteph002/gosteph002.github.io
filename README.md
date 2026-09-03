@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stephner Orina! <br/><a >Cybersecurity Student.
+<h1>Hi, I'm Stephner Orina! <br/><a >Cybersecurity Senior with a focus on Defensive Security, Cloud security engineering, infrastructure and analytics.
 
 <h2>👨🏿‍💻Cybersecurity Projects:</h2>
 
