@@ -4,6 +4,7 @@
 
 - <b>Cloud</b>
 
+[Google Cloud Security  Project](Google_cloudsecurity_capstone_project.pdf)
 - <b>Linux</b>
 
 - <b>PowerShell</b>
@@ -24,10 +25,10 @@
 
 
 
-<!--
+-->
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
