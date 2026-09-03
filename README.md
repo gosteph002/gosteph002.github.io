@@ -17,6 +17,7 @@
 [Google Cloud Cybersecurity Certificate](https://www.credly.com/badges/6b03790c-733d-4ef2-b6ff-6a4bd0f0e2c7/public_url)
 
 <h2> 🤳🏿 Connect with me:</h2>
+
 - [LinkedIn](https://www.linkedin.com/in/stephnerorina)
 
 
