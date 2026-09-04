@@ -13,7 +13,7 @@
 
 [Network Traffic Analysis](./CTF-Writeup-Network%20Traffic.md)
 
-<h2>Certifications</h2>
+<b>Certifications</b>
 
 [CompTIA Security+ ](https://www.credly.com/badges/04d6c058-16d4-4b71-a819-dbcbc1c8858d/public_url)
 
