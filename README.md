@@ -1,6 +1,9 @@
 <h1>Hi, I'm Stephner Orina! <br/><a >Cybersecurity Senior with a focus on Defensive Security, Cloud security engineering, infrastructure and analytics.
 
 <h2>👨🏿‍💻Cybersecurity Projects:</h2>
+<b>IoT Defense Projects </b>
+
+[Project Portfolio](https://extern.com/portfolios/stephner-orina?utm_source=portfolio&utm_medium=referral&utm_campaign=6eef9e7f-c88c-4ab9-aaff-d5f594b1002b&utm_content=copy_post_publish_success&portfolio_code=6eef9e7f-c88c-4ab9-aaff-d5f594b1002b)
 
 - <b>Cloud</b>
 
